@@ -2,16 +2,23 @@ body {
   background-color: lightblue;
 }
 
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	border-radius: 20%;
+	padding-top: 40px;
+}
+
 h1 {
   color: white;
-  text-shadow: 2px 2px #ff0000;
+  text-shadow: 2px 2px #0e56ad;
+  text-align: center;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
-}
-
-.content {
-	text-align: center;
+  text-align: center;
 }
