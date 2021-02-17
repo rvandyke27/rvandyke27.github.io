@@ -4,10 +4,14 @@ body {
 
 h1 {
   color: white;
-  text-align: center;
+  text-shadow: 2px 2px #ff0000;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
+}
+
+.content {
+	text-align: center;
 }
